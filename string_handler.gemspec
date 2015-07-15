@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Simple handle very basic string manipulation"
   spec.description   = "Only for study case, should not be used in production"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = ""
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
