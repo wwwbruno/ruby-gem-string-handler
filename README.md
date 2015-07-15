@@ -1,3 +1,5 @@
+
+[![Build Status](https://travis-ci.org/wwwbruno/ruby-gem-string-handler.svg?branch=master)](https://travis-ci.org/wwwbruno/ruby-gem-string-handler)
 # StringHandler
 
 This gem is only for study proposal and should not be used in any real project.
