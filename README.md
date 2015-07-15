@@ -7,7 +7,7 @@ This gem is only for study proposal and should not be used in any real project.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'string_handler', :git => 'https://github.com/wwwbruno/my-first-gem.git'
+gem 'string_handler', :git => 'https://github.com/wwwbruno/ruby-gem-string-handler.git'
 ```
 
 And then execute:
